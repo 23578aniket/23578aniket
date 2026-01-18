@@ -31,14 +31,16 @@ My name is **Aniket Dhania**. I am a Data Science practitioner with a B. Tech in
 # 📊 GitHub Stats:
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=23578aniket&theme=radical&column=7&margin-w=15&margin-h=15)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=23578aniket&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 <br/>
 
-![Aniket's Stats](https://github-readme-stats.vercel.app/api?username=23578aniket&theme=dark&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=23578aniket&theme=dark&show_icons=true" alt="Aniket's Stats" />
 <br/>
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=23578aniket&theme=dark&hide_border=false)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=23578aniket&theme=dark" alt="Streak Stats" />
 <br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23578aniket&theme=dark&hide_border=false&layout=compact)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23578aniket&theme=dark&layout=compact" alt="Top Languages" />
 
 </div>
 
