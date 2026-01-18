@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am data science and machine learning enthusiast.
+I am a Data Science and Machine Learning enthusiast.
+
 
 
 ## 🌐 Socials:
