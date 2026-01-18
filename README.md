@@ -1,7 +1,7 @@
 # 💫 About Me:
-**Data Science Student | Machine Learning & Analytics**
+**B. Tech (CSE) | Data Scientist | Machine Learning & Analytics**
 
-My name is **Aniket Dhania**. I am a Data Science student focused on Machine Learning and Analytics. I have hands-on experience working with real-time data for **10+ companies**, specializing in building data-driven solutions and optimizing models.
+My name is **Aniket Dhania**. I am a Data Science practitioner with a B. Tech in Computer Science Engineering. I have hands-on experience working with real-time data for **10+ companies**, specializing in building data-driven solutions and optimizing machine learning models.
 
 * 🔭 I’m currently working on **Machine Learning Algorithms & A/B Testing**
 * 🛠️ Core Competencies: **Python, SQL, Tableau, Excel, Machine Learning**
@@ -31,15 +31,17 @@ My name is **Aniket Dhania**. I am a Data Science student focused on Machine Lea
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=23578aniket&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=23578aniket&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=23578aniket&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=23578aniket&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</a>
+<br/><br/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=23578aniket&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Aniket's Stats" />
+<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=23578aniket&theme=dark&hide_border=false" alt="Streak Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23578aniket&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23578aniket&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 ### 🔝 Top Contributed Repo
