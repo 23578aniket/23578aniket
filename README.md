@@ -49,9 +49,17 @@ I am a Data Science enthusiast with a strong foundation in **Computer Science En
 ---
 
 ## 📊 GitHub Activity
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=23578aniket&show_icons=true&theme=gotham&hide_border=true" alt="Aniket's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23578aniket&theme=gotham&hide_border=true" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=23578aniket&show_icons=true&theme=dark" alt="Aniket's Github Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=23578aniket&theme=dark" alt="Aniket's Streak" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23578aniket&layout=compact&theme=dark" alt="Aniket's Top Languages" />
 </p>
 
 ## 🌐 Connect
