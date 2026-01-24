@@ -1,7 +1,7 @@
 # Hi there, I'm Aniket Dhania 👋
 ### B. Tech (CSE) | Data Analyst | Machine Learning Enthusiast
 
-<img align="right" alt="Analytics" width="400" src="https://media.giphy.com/media/d2Z8XQhR8l8QjMKA/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I am a **Computer Science Graduate** with a specialized focus on **Data Analysis** and **Business Intelligence**. Unlike typical freshers, I combine strong foundational knowledge in SQL and Excel with advanced skills in **Python & Automation**.
 
